@@ -1,0 +1,167 @@
+.add-product-form {
+  display: flex;
+  text-align: center;
+  background-color: #fff;
+  margin: 0 auto;
+  max-width: 1140px;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+
+.selected-images {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  position: relative;
+}
+.delete-icon-container:hover {
+  opacity: 1;
+}
+.image-container {
+  position: relative;
+}
+
+.selected-images img{
+  width: 80px;
+  height: 80px;
+  margin-right: 1rem;
+  object-fit: contain;
+  
+}
+
+
+.delete-icon-container {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 20px;
+  height: 20px;
+  background-color: #f00;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 0.2s ease-in-out;
+}
+
+
+.hidden-input-file{
+  display: none;
+}
+
+.product-input-form{
+  background-color: #fff;
+  margin: 1rem 3rem;
+  border-radius: 15px;
+  padding: 1rem;
+  
+}
+
+
+.first-form{
+  display: flex;
+  justify-content: center;
+}
+
+.left-form{
+  margin-right: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-options{
+  background-color: #e4e5e4;
+  width: 25rem;
+  border-radius: 8px;
+  height: 2rem;
+  margin-bottom: 1rem;
+  margin-top: .1rem;
+}
+
+.next-button{
+  text-align: center;
+  margin-top: 2rem;
+}
+
+.upload-btn{
+  background-color: rebeccapurple;
+  padding: .5rem 1rem;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.drop-zone{
+ margin: 1rem;
+  background-color: #fff;
+ padding: 2rem;
+ 
+ text-align: center;
+  border-style: dashed;
+}
+
+.right-form{
+  width: 50%;
+  background-color: #e4e5e4;
+  text-align: center;
+}
+
+.second-form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: center; */
+  /* align-content: center; */
+
+}
+
+.each{
+  display: flex;
+  flex-direction: column;
+}
+
+
+.first-form-mobile{
+  display: flex;
+  flex-direction: column;
+}
+
+.left-form-mobile{
+  width: 100%;
+}
+
+.input-options-mobile{
+ width: 100%; 
+ background-color: #e4e5e4;
+ 
+  border-radius: 8px;
+  height: 2rem;
+  margin-bottom: 1rem;
+  margin-top: .1rem;
+}
+
+.right-form-mobile{
+ 
+  background-color: #e4e5e4;
+  text-align: center;
+}
+
+
+.input-options-textarea-mobile{
+  width: 100%; 
+ background-color: #e4e5e4;
+  border-radius: 8px;
+  height: 5rem;
+  margin-bottom: 1rem;
+  margin-top: .1rem;
+  margin-left: 0;
+}
+
+.input-options-textarea{
+  height: 15rem;
+}

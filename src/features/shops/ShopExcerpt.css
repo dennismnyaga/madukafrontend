@@ -1,0 +1,41 @@
+.shop-location{
+    display: flex;
+    margin-top: 1rem;
+}
+
+.shop-location > h6{
+    margin-left: 1px;
+}
+
+.visit-shop{
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+
+.visit-shop > button{
+    border-radius: 8px;
+    padding: .2rem .4rem;
+    background-color: #030c2e;
+    color: #fff;
+    cursor: pointer;
+}
+
+.shop-img{
+    margin-bottom: 3rem;
+}
+.product-details-mobile-shop .price-name-mobile{
+    display: flex;
+    flex-direction: column;
+}
+
+.product-details-mobile-shop .price-name-mobile h5{
+    font-size: x-large;
+    margin-bottom: 1px;
+}
+
+.vit{
+    color: #fff;
+    font-weight: 400;
+    text-decoration: none;
+    text-align: center;
+}
