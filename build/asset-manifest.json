@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9f1603cc.css",
+    "main.js": "/static/js/main.2b115d57.js",
+    "static/media/banner.jpg": "/static/media/banner.35cf793a0bda70425c3a.jpg",
+    "static/media/perso.png": "/static/media/perso.5b71114bdf2e08bbfdc2.png",
+    "static/media/mike-petrucci-c9FQyqIECds-unsplash.jpg": "/static/media/mike-petrucci-c9FQyqIECds-unsplash.94e956c8bfab8370ebf4.jpg",
+    "static/media/logo.png": "/static/media/logo.57b8adec8a9a3df126b0.png",
+    "static/media/mobileLogo.png": "/static/media/mobileLogo.57ae89087cf6f8e6e3d3.png",
+    "static/media/default.png": "/static/media/default.c0d6903e6d78bc50107c.png",
+    "static/media/warning.png": "/static/media/warning.9b4ca102d35f95618ffb.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9f1603cc.css.map": "/static/css/main.9f1603cc.css.map",
+    "main.2b115d57.js.map": "/static/js/main.2b115d57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f1603cc.css",
+    "static/js/main.2b115d57.js"
+  ]
+}
